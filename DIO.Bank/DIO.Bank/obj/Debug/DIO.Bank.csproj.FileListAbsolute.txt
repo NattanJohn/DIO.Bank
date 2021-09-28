@@ -1,0 +1,7 @@
+C:\Users\Nattan John\source\repos\DIO.Bank\DIO.Bank\bin\Debug\DIO.Bank.exe.config
+C:\Users\Nattan John\source\repos\DIO.Bank\DIO.Bank\bin\Debug\DIO.Bank.exe
+C:\Users\Nattan John\source\repos\DIO.Bank\DIO.Bank\bin\Debug\DIO.Bank.pdb
+C:\Users\Nattan John\source\repos\DIO.Bank\DIO.Bank\obj\Debug\DIO.Bank.csproj.AssemblyReference.cache
+C:\Users\Nattan John\source\repos\DIO.Bank\DIO.Bank\obj\Debug\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\Users\Nattan John\source\repos\DIO.Bank\DIO.Bank\obj\Debug\DIO.Bank.exe
+C:\Users\Nattan John\source\repos\DIO.Bank\DIO.Bank\obj\Debug\DIO.Bank.pdb
